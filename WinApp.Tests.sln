@@ -2,7 +2,12 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinApp.Tests", "WinApp.Tests\WinApp.Tests.csproj", "{FB6C35B8-BC45-4AD0-B02A-670DCEEBFCDB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsApp", "WinFormsApp\WinFormsApp.csproj", "{53FBD801-C45B-454C-9841-425C1AC2B271}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsApp", "WindowsApp\WindowsApp.csproj", "{4690337A-57F1-495C-BCFD-39BEF72CA346}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Global", "Global", "{A80A8EE4-AEAF-446E-9B5C-D0AAA91C374C}"
+	ProjectSection(SolutionItems) = preProject
+		readme.md = readme.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -14,9 +19,9 @@ Global
 		{FB6C35B8-BC45-4AD0-B02A-670DCEEBFCDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FB6C35B8-BC45-4AD0-B02A-670DCEEBFCDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FB6C35B8-BC45-4AD0-B02A-670DCEEBFCDB}.Release|Any CPU.Build.0 = Release|Any CPU
-		{53FBD801-C45B-454C-9841-425C1AC2B271}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{53FBD801-C45B-454C-9841-425C1AC2B271}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{53FBD801-C45B-454C-9841-425C1AC2B271}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{53FBD801-C45B-454C-9841-425C1AC2B271}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4690337A-57F1-495C-BCFD-39BEF72CA346}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4690337A-57F1-495C-BCFD-39BEF72CA346}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4690337A-57F1-495C-BCFD-39BEF72CA346}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4690337A-57F1-495C-BCFD-39BEF72CA346}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
