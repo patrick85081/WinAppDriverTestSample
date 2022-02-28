@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinApp.Tests", "WinApp.Tests\WinApp.Tests.csproj", "{FB6C35B8-BC45-4AD0-B02A-670DCEEBFCDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsApp", "WinFormsApp\WinFormsApp.csproj", "{53FBD801-C45B-454C-9841-425C1AC2B271}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB6C35B8-BC45-4AD0-B02A-670DCEEBFCDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB6C35B8-BC45-4AD0-B02A-670DCEEBFCDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB6C35B8-BC45-4AD0-B02A-670DCEEBFCDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB6C35B8-BC45-4AD0-B02A-670DCEEBFCDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53FBD801-C45B-454C-9841-425C1AC2B271}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53FBD801-C45B-454C-9841-425C1AC2B271}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53FBD801-C45B-454C-9841-425C1AC2B271}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53FBD801-C45B-454C-9841-425C1AC2B271}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
